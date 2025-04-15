@@ -25,7 +25,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #2E8B57;
     font-weight: 600;
 }
 
@@ -61,7 +61,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--areia);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -100,11 +100,11 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(areia);
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #FFA07A;
 
 }
 
